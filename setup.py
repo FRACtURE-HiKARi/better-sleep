@@ -15,7 +15,7 @@ setup(
     name='better_sleep',
     version='1.0.0',
     description='A Python package for CPU-intensive sleep using multiple threads.',
-    long_description=open('README.md').read(),
+    long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
     author='FRACtURE-HiKARi',
     author_email='fracture.hikarii@gmail.com',
